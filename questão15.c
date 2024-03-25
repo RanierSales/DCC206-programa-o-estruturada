@@ -10,4 +10,7 @@ int main (void){
   printf("Por espaço :\n %c  %d  %.2f\n",letra,num,num2);
   printf("tabulação horizontal : \n %c\t %d\t %.2f\t\n",letra,num,num2); 
   printf("por quebra de linha : \n %c\n %d\n %.2f\n",letra,num,num2);
-}
+} 
+
+//Matheus Garcia 2023010191 
+//Ranier Sales 2023011223
