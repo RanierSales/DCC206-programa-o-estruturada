@@ -11,3 +11,6 @@ int main(void) { //paradigma vazio para não precisar usar return
   scanf("%d",&num2); 
   printf("Os números digitados na ordem inversa foi %d e %d",num2,num1);
 }
+
+//Matheus Garcia 2023010191 
+//Ranier Sales 2023011223
