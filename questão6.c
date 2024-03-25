@@ -8,3 +8,6 @@ int main(void) { //main function e paradigma vazio para não precisar usar retur
   printf("Sua altura em notação é %e",num); 
 } 
 
+
+//Matheus Garcia 2023010191 
+//Ranier Sales 2023011223
