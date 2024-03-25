@@ -4,7 +4,9 @@ Questão 12: Elabore um programa que contenha uma constante qualquer do tipo int
 comando const. Imprima essa constante.
 
 
-Alunos: Ranier Sales e Matheus Garcia
+Alunos:
+Matheus Garcia 2023010191 
+Ranier Sales 2023011223
 
 */
 
