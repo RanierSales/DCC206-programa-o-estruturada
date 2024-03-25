@@ -11,3 +11,7 @@ int main(void){ //funtion void (sem retorno).
   scanf("%d/%d/%d",&day,&month,&year); //usamos "/" para separar o input 
   printf("A data é %d/%d/%d", day,month,year);
 }
+
+
+//Matheus Garcia 2023010191 
+//Ranier Sales 2023011223
