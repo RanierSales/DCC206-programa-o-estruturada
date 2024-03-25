@@ -2,7 +2,8 @@
   Questão 4: Faça um programa que leia um número inteiro e depois o imprima usando o
 operador “%f”. Veja o que aconteceu. 
 
-Alunos: Ranier Sales e Matheus Garcia
+Matheus Garcia 2023010191 
+Ranier Sales 2023011223
 
 */
 
