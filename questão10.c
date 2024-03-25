@@ -1,6 +1,7 @@
 /*10. Elabore um programa que solicite ao usuário entrar com o valor do dia, mês e ano
-(inteiros). Em seguida, imprima os valores lidos separados por uma barra (\).
-*/ 
+(inteiros). Em seguida, imprima os valores lidos separados por uma barra (\).*/ 
+
+
 #include <stdio.h>
 int main(void){ //funtion void (sem retorno).
   //variaveis com as informações do dia, mês e ano.
