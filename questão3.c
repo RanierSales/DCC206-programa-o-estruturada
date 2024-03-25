@@ -3,8 +3,6 @@
 Questao 3: Escreva um programa que leia um número inteiro e depois imprima a mensagem
   “Valor lido:”, seguido do valor inteiro. Use apenas um comando printf().
 
-Alunos: Ranier Sales e Matheus Garcia
-
 */
 
 #include <stdio.h>
@@ -21,4 +19,8 @@ int main(void) {
 
   system("pause");
   return 0;
-}
+} 
+
+
+//Matheus Garcia 2023010191 
+//Ranier Sales 2023011223
