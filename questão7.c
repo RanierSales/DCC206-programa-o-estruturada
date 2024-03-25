@@ -2,7 +2,8 @@
 
 Questão 7: Elabore um programa que leia um caractere e depois o imprima como um valor inteiro.
 
-Alunos: Ranier Sales e Matheus Garcia
+Matheus Garcia 2023010191 
+Ranier Sales 2023011223
 
 */
 
